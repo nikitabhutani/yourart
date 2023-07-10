@@ -7,9 +7,9 @@ class SearchPage extends StatefulWidget {
 
 class _SearchPageState extends State<SearchPage> {
   List<Artwork> artworks = [
-    Artwork(name: 'Artwork 1', artist: 'John Doe', price: 100),
-    Artwork(name: 'Artwork 2', artist: 'Jane Smith', price: 150),
-    Artwork(name: 'Artwork 3', artist: 'David Johnson', price: 200),
+    Artwork(name: 'Artwork 1', artist: 'Shamita Shetty', price: 100),
+    Artwork(name: 'Artwork 2', artist: 'Riya Sharma', price: 150),
+    Artwork(name: 'Artwork 3', artist: 'Twisha Arora', price: 200),
   ];
 
   List<Artwork> filteredArtworks = [];

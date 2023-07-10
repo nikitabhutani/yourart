@@ -36,3 +36,4 @@ Contributions are welcome! If you have any ideas, bug fixes, or feature suggesti
 
 For any questions or inquiries, please reach out to nikitabhutani024@gmail.com
 
+<img src =  "![s1](https://github.com/nikitabhutani/yourart/assets/118121729/0ecd7596-2f9a-4120-acf0-8888fdf115be)" width = "200" height = "400" >

@@ -16,7 +16,7 @@ class ProfilePage extends StatelessWidget {
           ),
           SizedBox(height: 10.0),
           Text(
-            'John Doe',
+            'Nikita Bhutani',
             style: TextStyle(
               fontSize: 20.0,
               fontWeight: FontWeight.bold,
