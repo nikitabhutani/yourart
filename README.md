@@ -37,3 +37,14 @@ Contributions are welcome! If you have any ideas, bug fixes, or feature suggesti
 For any questions or inquiries, please reach out to nikitabhutani024@gmail.com
 
 <img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/0ecd7596-2f9a-4120-acf0-8888fdf115be" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/9c5dc1bd-06a3-4713-a5b5-cd387c76a7a0" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/b19dbede-7caf-4734-805a-7c018f27561c" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/3df37280-6360-41ed-89d0-652e99b699cf" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/d0456913-1a9d-49f2-a727-da85d4bf267b" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/183d6c0d-b253-428f-9191-d13bf556a46d" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/9fa30814-bd25-40ee-81a2-6ae702d2c2d8" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/7b886478-0874-4c7c-ad48-9b7695febd1f" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/ce54a285-0748-4598-8ca1-f39d6ba1da73" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/8bee8acf-f875-4569-a91e-8b92e9621e71" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/22edf56f-aafe-4b95-b96e-4898ad9e8368" width = "200" height = "400" >
+<img src =  "https://github.com/nikitabhutani/yourart/assets/118121729/831ccb43-358d-4fa8-98f2-38a769f7ba1f" width = "200" height = "400" >
